@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unlocking sources on Day one"
-date:   2019-06-10 10:00:00 +0100
+date:   2019-06-10 09:00:00 +0100
 categories: azerite-essences
 ---
 
