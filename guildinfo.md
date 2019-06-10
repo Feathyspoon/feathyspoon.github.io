@@ -1,6 +1,6 @@
 ---
 layout: page
-title: guildinfo
+title: Guild Info
 permalink: /guildinfo/
 ---
 
