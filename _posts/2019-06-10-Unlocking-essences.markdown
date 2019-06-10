@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Azerite Essences you can unlock on Day one"
+title:  "Azerite Essences You Can Unlock On Day One"
 date:   2019-06-10 09:00:00 +0100
 categories: azerite-essences
 ---
