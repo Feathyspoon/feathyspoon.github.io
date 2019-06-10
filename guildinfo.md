@@ -12,5 +12,6 @@ We raid on Ravencrest on Sundays and Monday. Both 20.00 till 23.00. Right now we
 
 For more details:
 
-[wowprogress](https://www.wowprogress.com/guild/eu/ravencrest/Slightly+Reunited)
-[raider.io](https://raider.io/guilds/eu/ravencrest/Slightly%20Reunited)
+[WoWProgress](https://www.wowprogress.com/guild/eu/ravencrest/Slightly+Reunited)
+
+[Raider.io](https://raider.io/guilds/eu/ravencrest/Slightly%20Reunited)
